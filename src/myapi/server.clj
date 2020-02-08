@@ -1,4 +1,4 @@
-(ns myapi.core
+(ns myapi.server
   (:gen-class))
 
 (defn -main
