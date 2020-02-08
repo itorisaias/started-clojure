@@ -1,5 +1,5 @@
 (ns myapi.app)
 
-(defn app
+(defn start
   []
   (println "App start"))

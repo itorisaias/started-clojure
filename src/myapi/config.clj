@@ -1,5 +1,5 @@
 (ns myapi.config)
 
-(defn config
+(defn start
   []
   (println "Config start"))
